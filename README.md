@@ -1,2 +1,2 @@
-# EM
-EM reference
+# EMc
+Electrical Machines reference
